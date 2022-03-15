@@ -1,5 +1,3 @@
-#this is a test
-
 terraform {
   required_providers {
     aws = {
